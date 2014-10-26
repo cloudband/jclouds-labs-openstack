@@ -12,6 +12,7 @@ Although this is a "labs" repository, some of the providers and APIs here are pr
 | openstack-glance | API | No |
 | openstack-marconi | API | No |
 | openstack-neutron | API | Yes |
+| openstack-ceilometer | API | No |
 | openstack-swift | API | Beta |
 | rackspace-autoscale | API | No |
 | rackspace-cloudfiles | API | No |
